@@ -28,5 +28,3 @@
   
 </div>
 
-
-![Snake animation](https://github.com/luckaragao/luckaragao/blob/output/github-contribution-grid-snake.svg)
