@@ -16,7 +16,7 @@
   <img align="center" alt="Luck-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luck-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luck-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/986452266754134026/1077753106621804564/312296644_3269933113323966_1824379295075246515_n.jpg">
+  <img align="right" alt="" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/986452266754134026/1077753106621804564/312296644_3269933113323966_1824379295075246515_n.jpg">
 </div>
   
   ##
